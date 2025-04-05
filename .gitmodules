@@ -1,6 +1,3 @@
-[submodule "themes/hinode"]
-	path = themes/hinode
-	url = https://github.com/gethinode/hinode
 [submodule "themes/clarity"]
 	path = themes/clarity
 	url = https://github.com/chipzoller/hugo-clarity
