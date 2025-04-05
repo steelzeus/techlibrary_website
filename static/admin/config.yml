@@ -1,0 +1,12 @@
+backend:
+  name: git-gateway
+  branch: main # Replace with your branch name
+
+collections:
+  - name: "articles" # Used in routes, e.g., /admin/collections/blog
+    label: "Articles" # Used in the UI
+    folder: "content/articles" # The path to your articles
+    create: true # Allow users to create new articles
+    fields: # The fields each article will have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}

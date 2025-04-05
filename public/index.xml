@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Apr 2025 13:46:48 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Tech Article</title>
+      <link>http://localhost:1313/articles/my-first-tech-article/</link>
+      <pubDate>Wed, 02 Apr 2025 13:46:48 +0530</pubDate>
+      <guid>http://localhost:1313/articles/my-first-tech-article/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;draft-false&#34;&gt;title: &amp;ldquo;My Test Article&amp;rdquo;&#xA;date: 2024-10-27T15:00:00+00:00 # You can change this date&#xA;draft: false&lt;/h2&gt;&#xA;&lt;h1 id=&#34;testing-1-2-3&#34;&gt;Testing, 1, 2, 3&lt;/h1&gt;&#xA;&lt;p&gt;This is a test to see if my article is showing up!&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s a simple list:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;One&lt;/li&gt;&#xA;&lt;li&gt;Two&lt;/li&gt;&#xA;&lt;li&gt;Three&#xA;bada bhai chalata benz&#xA;chota bhai chabata chainz&#xA;dono bhai jalaate gendz&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://youtu.be/dQw4w9WgXcQ?si=CVGphLTDvmLxXFpK&#34;&gt;https://youtu.be/dQw4w9WgXcQ?si=CVGphLTDvmLxXFpK&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;And some code:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;console&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;log&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;It works!&amp;#34;&lt;/span&gt;);&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>
