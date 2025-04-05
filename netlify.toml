@@ -1,6 +1,7 @@
 [build]
   command = "hugo"
   publish = "public"
+  processing = { timeout = 600 } # Timeout in seconds (10 minutes)
 
 [build.environment]
   HUGO_VERSION = "latest"
